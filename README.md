@@ -1,2 +1,2 @@
 # AR-Resume
-Augmenting Resume 
+Augmenting Resume over visiting card
